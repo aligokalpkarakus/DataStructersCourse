@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\gokal\source\repos\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\gokal\source\repos\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\gokal\source\repos\proje2\proje2\obj\Debug\proje2.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\gokal\source\repos\proje2\proje2\obj\Debug\proje2.pdb

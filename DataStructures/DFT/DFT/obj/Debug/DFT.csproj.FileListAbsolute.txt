@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\DFT\DFT\bin\Debug\DFT.exe.config
+C:\Users\gokal\source\repos\DFT\DFT\bin\Debug\DFT.exe
+C:\Users\gokal\source\repos\DFT\DFT\bin\Debug\DFT.pdb
+C:\Users\gokal\source\repos\DFT\DFT\obj\Debug\DFT.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\DFT\DFT\obj\Debug\DFT.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\DFT\DFT\obj\Debug\DFT.exe
+C:\Users\gokal\source\repos\DFT\DFT\obj\Debug\DFT.pdb

@@ -1,0 +1,14 @@
+C:\Users\gokal\source\repos\proje4\proje4\bin\Debug\proje4.exe.config
+C:\Users\gokal\source\repos\proje4\proje4\bin\Debug\proje4.exe
+C:\Users\gokal\source\repos\proje4\proje4\bin\Debug\proje4.pdb
+C:\Users\gokal\source\repos\proje4\proje4\obj\Debug\proje4.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\proje4\proje4\obj\Debug\proje4.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\proje4\proje4\obj\Debug\proje4.exe
+C:\Users\gokal\source\repos\proje4\proje4\obj\Debug\proje4.pdb
+C:\Users\gokal\source\repos\AVLTreeInsertion\proje4\bin\Debug\proje4.exe.config
+C:\Users\gokal\source\repos\AVLTreeInsertion\proje4\bin\Debug\proje4.exe
+C:\Users\gokal\source\repos\AVLTreeInsertion\proje4\bin\Debug\proje4.pdb
+C:\Users\gokal\source\repos\AVLTreeInsertion\proje4\obj\Debug\proje4.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\AVLTreeInsertion\proje4\obj\Debug\proje4.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\AVLTreeInsertion\proje4\obj\Debug\proje4.exe
+C:\Users\gokal\source\repos\AVLTreeInsertion\proje4\obj\Debug\proje4.pdb

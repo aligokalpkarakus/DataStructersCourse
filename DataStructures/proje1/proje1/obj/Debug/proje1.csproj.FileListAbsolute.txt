@@ -1,0 +1,15 @@
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\EPPlus.dll
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\EPPlus.xml
+C:\Users\gokal\source\repos\proje1\proje1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\gokal\source\repos\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\proje1\proje1\obj\Debug\proje1.csproj.CopyComplete
+C:\Users\gokal\source\repos\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\gokal\source\repos\proje1\proje1\obj\Debug\proje1.pdb

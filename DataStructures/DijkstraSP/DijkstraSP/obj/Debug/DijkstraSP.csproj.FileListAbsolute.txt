@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\DijkstraSP\DijkstraSP\bin\Debug\DijkstraSP.exe.config
+C:\Users\gokal\source\repos\DijkstraSP\DijkstraSP\bin\Debug\DijkstraSP.exe
+C:\Users\gokal\source\repos\DijkstraSP\DijkstraSP\bin\Debug\DijkstraSP.pdb
+C:\Users\gokal\source\repos\DijkstraSP\DijkstraSP\obj\Debug\DijkstraSP.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\DijkstraSP\DijkstraSP\obj\Debug\DijkstraSP.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\DijkstraSP\DijkstraSP\obj\Debug\DijkstraSP.exe
+C:\Users\gokal\source\repos\DijkstraSP\DijkstraSP\obj\Debug\DijkstraSP.pdb

@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\DataStLab7.1\DataStLab7.1\bin\Debug\DataStLab7.1.exe.config
+C:\Users\gokal\source\repos\DataStLab7.1\DataStLab7.1\bin\Debug\DataStLab7.1.exe
+C:\Users\gokal\source\repos\DataStLab7.1\DataStLab7.1\bin\Debug\DataStLab7.1.pdb
+C:\Users\gokal\source\repos\DataStLab7.1\DataStLab7.1\obj\Debug\DataStLab7.1.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\DataStLab7.1\DataStLab7.1\obj\Debug\DataStLab7.1.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\DataStLab7.1\DataStLab7.1\obj\Debug\DataStLab7.1.exe
+C:\Users\gokal\source\repos\DataStLab7.1\DataStLab7.1\obj\Debug\DataStLab7.1.pdb

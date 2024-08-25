@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrieStructure", "TrieStructure\TrieStructure.csproj", "{928D6F1F-82F9-4BAD-AA89-4AC1EB9BFF98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928D6F1F-82F9-4BAD-AA89-4AC1EB9BFF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928D6F1F-82F9-4BAD-AA89-4AC1EB9BFF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928D6F1F-82F9-4BAD-AA89-4AC1EB9BFF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928D6F1F-82F9-4BAD-AA89-4AC1EB9BFF98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B09DABC3-3422-40F3-A692-89DCAA94F46A}
+	EndGlobalSection
+EndGlobal

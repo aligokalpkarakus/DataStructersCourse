@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\TrieStructure\TrieStructure\obj\Debug\TrieStructure.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\TrieStructure\TrieStructure\obj\Debug\TrieStructure.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\TrieStructure\TrieStructure\bin\Debug\TrieStructure.exe.config
+C:\Users\gokal\source\repos\TrieStructure\TrieStructure\bin\Debug\TrieStructure.exe
+C:\Users\gokal\source\repos\TrieStructure\TrieStructure\bin\Debug\TrieStructure.pdb
+C:\Users\gokal\source\repos\TrieStructure\TrieStructure\obj\Debug\TrieStructure.exe
+C:\Users\gokal\source\repos\TrieStructure\TrieStructure\obj\Debug\TrieStructure.pdb

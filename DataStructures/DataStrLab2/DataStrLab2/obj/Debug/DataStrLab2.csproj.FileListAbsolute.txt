@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\DataStrLab2\DataStrLab2\bin\Debug\DataStrLab2.exe.config
+C:\Users\gokal\source\repos\DataStrLab2\DataStrLab2\bin\Debug\DataStrLab2.exe
+C:\Users\gokal\source\repos\DataStrLab2\DataStrLab2\bin\Debug\DataStrLab2.pdb
+C:\Users\gokal\source\repos\DataStrLab2\DataStrLab2\obj\Debug\DataStrLab2.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\DataStrLab2\DataStrLab2\obj\Debug\DataStrLab2.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\DataStrLab2\DataStrLab2\obj\Debug\DataStrLab2.exe
+C:\Users\gokal\source\repos\DataStrLab2\DataStrLab2\obj\Debug\DataStrLab2.pdb

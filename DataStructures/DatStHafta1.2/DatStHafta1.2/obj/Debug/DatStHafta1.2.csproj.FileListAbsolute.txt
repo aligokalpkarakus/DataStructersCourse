@@ -1,0 +1,10 @@
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\bin\Debug\DatStHafta1.2.exe.config
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\bin\Debug\DatStHafta1.2.exe
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\bin\Debug\DatStHafta1.2.pdb
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\obj\Debug\DatStHafta1.2.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\obj\Debug\DatStHafta1._2.Form1.resources
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\obj\Debug\DatStHafta1._2.Properties.Resources.resources
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\obj\Debug\DatStHafta1.2.csproj.GenerateResource.cache
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\obj\Debug\DatStHafta1.2.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\obj\Debug\DatStHafta1.2.exe
+C:\Users\gokal\source\repos\DatStHafta1.2\DatStHafta1.2\obj\Debug\DatStHafta1.2.pdb

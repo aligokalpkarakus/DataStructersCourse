@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\sorting\sorting\bin\Debug\sorting.exe.config
+C:\Users\gokal\source\repos\sorting\sorting\bin\Debug\sorting.exe
+C:\Users\gokal\source\repos\sorting\sorting\bin\Debug\sorting.pdb
+C:\Users\gokal\source\repos\sorting\sorting\obj\Debug\sorting.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\sorting\sorting\obj\Debug\sorting.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\sorting\sorting\obj\Debug\sorting.exe
+C:\Users\gokal\source\repos\sorting\sorting\obj\Debug\sorting.pdb

@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\PrimMST\PrimMST\obj\Debug\PrimMST.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\PrimMST\PrimMST\obj\Debug\PrimMST.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\PrimMST\PrimMST\bin\Debug\PrimMST.exe.config
+C:\Users\gokal\source\repos\PrimMST\PrimMST\bin\Debug\PrimMST.exe
+C:\Users\gokal\source\repos\PrimMST\PrimMST\bin\Debug\PrimMST.pdb
+C:\Users\gokal\source\repos\PrimMST\PrimMST\obj\Debug\PrimMST.exe
+C:\Users\gokal\source\repos\PrimMST\PrimMST\obj\Debug\PrimMST.pdb

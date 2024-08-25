@@ -1,0 +1,7 @@
+C:\Users\gokal\source\repos\DataStLab3\DataStLab3\bin\Debug\DataStLab3.exe.config
+C:\Users\gokal\source\repos\DataStLab3\DataStLab3\bin\Debug\DataStLab3.exe
+C:\Users\gokal\source\repos\DataStLab3\DataStLab3\bin\Debug\DataStLab3.pdb
+C:\Users\gokal\source\repos\DataStLab3\DataStLab3\obj\Debug\DataStLab3.csproj.AssemblyReference.cache
+C:\Users\gokal\source\repos\DataStLab3\DataStLab3\obj\Debug\DataStLab3.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\DataStLab3\DataStLab3\obj\Debug\DataStLab3.exe
+C:\Users\gokal\source\repos\DataStLab3\DataStLab3\obj\Debug\DataStLab3.pdb
